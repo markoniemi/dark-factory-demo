@@ -56,3 +56,16 @@ Priorities: `high` | `medium` | `low`.
 ---
 
 ## Backlog
+
+### opencode and claude with sbx [done, high]
+
+file: [opencode-and-claude-with-sbx.md](opencode-and-claude-with-sbx.md)
+
+- add instructions on how to install sbx and opencode
+- add instruction on how to intall sbx and claude
+
+### dark factory [planning, high]
+
+- create a plan how to create a dark factory
+- can it be a plugin?
+- can task-plugin be used as base?

@@ -1,0 +1,8 @@
+# Docker Sandboxes (sbx) settings for this project. See docs/SbxAgents.md.
+# Start with:  sbx env plan  then  sbx env run --skip-host-commands
+# Personal settings (git identity, secrets) belong in ~/.sbxenv.yaml, not here.
+# Keep host-side `lifecycle` commands out of this file: the agent can edit it.
+schemaVersion: "1"
+name: dark-factory-demo
+agent: claude
+workspace: .
